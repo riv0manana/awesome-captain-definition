@@ -1,11 +1,11 @@
 {
   "name": "juliano",
   "version": "1.0.0",
-  "description": "portfólio juliano polotto",
+  "description": "portf\u00f3lio juliano polotto",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node init && node index.js"
   },
   "repository": {
     "type": "git",
